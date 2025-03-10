@@ -1,0 +1,4 @@
+filelock==3.17.0
+platformdirs==4.3.6
+pycodestyle==2.12.1
+virtualenv==20.29.2
