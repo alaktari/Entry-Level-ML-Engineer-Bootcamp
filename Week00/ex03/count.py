@@ -18,6 +18,7 @@ def text_analyzer(parameter=""):
     print("-", punctuation_count, "punctuation mark(s)")
     print("-", spaces, "space(s)")
 
+
 if len(argv) != 2:
     print("Error: one argument is provided")
 else:
